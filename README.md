@@ -1,1 +1,1 @@
- Dailyhunder news app
+Discovery App
